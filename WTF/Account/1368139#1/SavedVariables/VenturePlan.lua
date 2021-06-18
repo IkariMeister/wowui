@@ -1,0 +1,2 @@
+
+VP_MissionReports = nil

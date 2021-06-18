@@ -1,0 +1,28 @@
+VER 3 0100000000000007 "AOE Ele" "451165"
+#showtooltip
+/cast [mod:shift] Earthquake; [mod:ctrl] Thunderstorm;  Chain Lightning
+END
+VER 3 0100000000000004 "CD defesive" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Earth Elemental; Astral Shift
+END
+VER 3 0100000000000006 "CDs Elem" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:shift] Storm Elemental; [mod:ctrl] Bloodlust; Stormkeeper
+END
+VER 3 0100000000000005 "CDs healer" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:shift] Healing Tide Totem; [mod:ctrl] Bloodlust; Ascendance
+END
+VER 3 0100000000000002 "Frost shock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Frost Shock
+END
+VER 3 0100000000000003 "interrupt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Wind Shear
+END
+VER 3 0100000000000001 "Slow Totem" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Earthbind Totem; Capacitor Totem
+END

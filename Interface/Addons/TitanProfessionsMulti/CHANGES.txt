@@ -1,0 +1,12 @@
+lightweight tag 1681f0e572d59f51b6bb9b85ce6eff8bf0188728 v8.3.0
+Author:	Paulo <paulo@canetti.net>
+Date:	Mon Jun 7 01:11:34 2021 -0300
+
+commit 1681f0e572d59f51b6bb9b85ce6eff8bf0188728
+Author: Paulo <paulo@canetti.net>
+Date:   Mon Jun 7 01:11:34 2021 -0300
+
+    Changed the way that plugins recognizes which profession do you know/learned.
+    
+    This change is crucial for a better performance in all languages.
+

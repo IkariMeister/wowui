@@ -1,0 +1,16 @@
+## Interface: 70000
+## X-Curse-Project-Name: AdiBags_Herbalism
+## X-Curse-Project-ID: adibags_Herbalism
+## X-Curse-Repository-ID: wow/adibags_Herbalism/mainline
+
+## Title: AdiBags - Herbalism
+## Notes: Adds Herbalism in your bags, using AdiBags inventory manager.
+## Author: Ramon_
+## Version: v0.1
+## X-Curse-Packaged-Version: v1.0
+## X-Date: 2017-02-24T00:00:01Z
+
+## Dependencies: AdiBags
+
+Localization.lua
+AdiBags_Herbalism.lua

@@ -1,0 +1,48 @@
+VER 3 0100000000000004 "comb+iv" "Spell_Shadow_ShadowWordPain"
+#showtooltip Mirror Image
+/cast Combustion
+/cast Mirror Image
+END
+VER 3 0100000000000003 "cs" "Ability_Mage_IncantersAbsorbtion"
+/stopcasting
+/cast Counterspell
+END
+VER 3 0100000000000005 "decurse party" "Spell_Shadow_Possession"
+#showtooltip Remove Curse
+/targetparty
+/cast Remove Curse
+END
+VER 3 0100000000000007 "decurse raid" "Spell_DeathKnight_BloodPlague"
+#showtooltip Remove Curse
+/targetraid
+/cast Remove Curse
+END
+VER 3 010000000000000A "gemas" "Spell_Misc_ConjureManaJewel"
+/use mana sapphire
+/use  Sliver of Pure Ice
+END
+VER 3 0100000000000002 "montura" "Ability_Mount_FlyingCarpet"
+/dismount;
+/castrandom [flyable] Snowy Gryphon, Flying Carpet
+/castrandom Swift Palomino, Swift Brown Steed, Swift White Steed
+END
+VER 3 0100000000000008 "oveja" "Ability_Mount_MountainRam"
+#showtooltip Polymorph(Rank 4)
+/stopcast
+/target focus
+/cast Polymorph(Rank 4)
+/targetlasttarget
+END
+VER 3 0100000000000001 "Selfbuff" "Spell_Fire_LavaSpawn"
+#showtooltip Dampen Magic
+/castsequence [target=player] reset=4 Arcane Intellect, Molten Armor, Dampen Magic
+END
+VER 3 0100000000000006 "selfbuff2" "Spell_Frost_ChillingArmor"
+#showtooltip Dampen Magic
+/castsequence [target=player] reset=4 Arcane Intellect, Frost Armor, Dampen Magic
+END
+VER 3 0100000000000009 "spellsteal" "Spell_Arcane_Arcane02"
+#showtooltip
+/stopcasting
+/cast spellsteal
+END

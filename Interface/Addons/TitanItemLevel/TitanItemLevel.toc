@@ -1,0 +1,12 @@
+## Interface: 90005
+## Title: Titan Panel [|cffeda55fItem Level|r] |cff00aa002.0.0.90005|r by InvisiBill
+## Notes: Titan Panel plugin that shows your average Item Level.
+## Author: InvisiBill
+## Version: 2.0.0.90005
+## X-Curse-Project-ID: 91945
+## Dependencies: Titan
+## X-Child-Of: Titan
+
+Locales.lua
+Elib-2.4.lua
+TitanItemLevel.lua

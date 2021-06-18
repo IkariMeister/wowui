@@ -1,0 +1,146 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["Herbalism"] = {
+		},
+		["Cata"] = {
+		},
+		["WoW"] = {
+		},
+		["ZoneItems"] = {
+		},
+		["Shadowlands"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Bound"] = {
+		},
+		["BfA"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["ItemLevel"] = {
+		},
+		["ItemCategory"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["NewItem"] = {
+		},
+		["MoP"] = {
+		},
+		["Equipment"] = {
+		},
+		["Legion"] = {
+		},
+		["Wrath"] = {
+		},
+		["WoD"] = {
+		},
+		["TBC"] = {
+		},
+		["Fishing Items"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Stygia"] = false,
+						["Corrupted Mementos"] = false,
+						["Seal of Inevitable Fate"] = false,
+						["Conquest"] = false,
+						["Spirit Shard"] = false,
+						["Lesser Charm of Good Fortune"] = false,
+						["Curious Coin"] = false,
+						["Order Resources"] = false,
+						["Artifact Fragment"] = false,
+						["Ancient Mana"] = false,
+						["Honorbound Service Medal"] = false,
+						["Brawler's Gold"] = false,
+						["Titan Residuum"] = false,
+						["War Resources"] = false,
+						["Ironpaw Token"] = false,
+						["Garrison Resources"] = false,
+						["Argent Commendation"] = false,
+						["Honor"] = false,
+						["Epicurean's Award"] = false,
+						["Echoes of Ny'alotha"] = false,
+						["Timeless Coin"] = false,
+						["Prismatic Manapearl"] = false,
+						["Coalescing Visions"] = false,
+						["Apexis Crystal"] = false,
+						["Darkmoon Prize Ticket"] = false,
+						["Mote of Darkness"] = false,
+						["7th Legion Service Medal"] = false,
+						["Elder Charm of Good Fortune"] = false,
+						["Champion's Seal"] = false,
+						["Infused Ruby"] = false,
+					},
+				},
+			},
+		},
+		["Hearthstones"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Ameria - Sanguino"] = "Default",
+		["Amerya - Ravencrest"] = "Default",
+		["Dokuwar - Dun Modr"] = "Default",
+		["Mazedecker - Ravencrest"] = "Default",
+		["Dokushammy - Tyrande"] = "Default",
+		["Estrela - Sanguino"] = "Default",
+		["Zakurochan - Tyrande"] = "Default",
+		["Dècker - Sanguino"] = "Default",
+		["Lèena - Sanguino"] = "Default",
+		["Dokushammy - Uldum"] = "Default",
+		["Truquelas - Sanguino"] = "Default",
+		["Dokufurry - Uldum"] = "Default",
+		["Theör - Dun Modr"] = "Default",
+		["Ferroviaria - Sanguino"] = "Default",
+		["Kaulifla - C'Thun"] = "Default",
+		["Nukkita - Sanguino"] = "Default",
+		["Leenainvers - Tyrande"] = "Default",
+		["Dokudh - Dun Modr"] = "Default",
+		["Dokurochän - Dun Modr"] = "Default",
+		["Zakurochan - Sanguino"] = "Default",
+		["Miahou - Sanguino"] = "Default",
+		["Triguera - Ravencrest"] = "Default",
+		["Triguera - Sanguino"] = "Default",
+		["Paülaner - Sanguino"] = "Default",
+		["Dokurochän - Sanguino"] = "Default",
+		["Kusanagui - Ravencrest"] = "Default",
+		["Amerya - Dun Modr"] = "Default",
+		["Triguera - Dun Modr"] = "Default",
+		["Beiñakiddo - Tyrande"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["scale"] = 1,
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = 0,
+					["yOffset"] = 361.6663818359375,
+				},
+				["Backpack"] = {
+					["xOffset"] = -438.8338623046875,
+					["point"] = "TOPRIGHT",
+					["yOffset"] = -125.2021484375,
+				},
+			},
+			["rightClickConfig"] = false,
+			["autoDeposit"] = true,
+			["positionMode"] = "manual",
+		},
+	},
+}

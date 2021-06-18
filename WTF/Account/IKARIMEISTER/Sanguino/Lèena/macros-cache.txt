@@ -1,0 +1,30 @@
+VER 3 0100000000000006 "Agony" "INV_MISC_QUESTIONMARK"
+#showtooltip Agony
+/use [@mouseover,harm] [harm] Agony
+END
+VER 3 0100000000000003 "Corruption" "INV_MISC_QUESTIONMARK"
+#showtooltip Corruption
+/use [@mouseover,harm] [harm] Corruption
+END
+VER 3 0100000000000007 "Life Siophon" "INV_MISC_QUESTIONMARK"
+#showtooltip Siphon Life
+/use [@mouseover,harm] [harm] Siphon Life
+END
+VER 3 0100000000000008 "Rupture" "INV_MISC_QUESTIONMARK"
+#showtooltip Malefic Rapture
+/use [@mouseover,harm] [harm] Malefic Rapture
+END
+VER 3 0100000000000005 "Tier 4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [talent:4/2] Phantom Singularity; [talent:4/3,@cursor] Vile Taint
+END
+VER 3 0100000000000004 "Tier 5" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [talent:5/2,@mouseover,exists] Mortal Coil; [talent:5/2] Mortal Coil; [talent:5/3] Howl of Terror
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Lèe[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Rul
+END

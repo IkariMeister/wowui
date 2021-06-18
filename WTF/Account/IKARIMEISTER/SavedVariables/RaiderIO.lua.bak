@@ -1,0 +1,27 @@
+
+RaiderIO_Config = {
+	["previouslyEnabledLogging"] = false,
+}
+RaiderIO_LastCharacter = "eu-Ameria-sanguino"
+RaiderIO_MissingCharacters = {
+	["eu-Mythicbro-trollbane"] = true,
+	["eu--sanguino"] = true,
+	["eu-Trbecvyn-kazzak"] = true,
+	["eu-Stefanludi-azjolnerub"] = true,
+	["eu-Theøjin-blackhand"] = true,
+	["eu-Ëlrønd-sanguino"] = true,
+	["eu-Aiwin-aggra-português"] = true,
+	["eu-Магитрол-deepholm"] = true,
+	["eu-Tatou-sanguino"] = true,
+	["eu-Dbhas-doomhammer"] = true,
+	["eu-Greya-sanguino"] = true,
+	["eu-Annié-sanguino"] = true,
+	["eu-Cazotodo-sanguino"] = true,
+	["eu-Demonangexd-ysondre"] = true,
+	["eu-Ryuzz-dun-morogh"] = true,
+	["eu-Dhksa-turalyon"] = true,
+	["eu-Mythicmst-terokkar"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil

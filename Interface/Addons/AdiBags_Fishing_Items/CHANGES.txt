@@ -1,0 +1,12 @@
+lightweight tag be8f915ade417306b52e48baabce145cead6fbc2 v1.1.1
+Author:	Lown Ignitus <lownignitus@gmail.com>
+Date:	Fri Feb 5 15:15:02 2021 -0700
+
+commit be8f915ade417306b52e48baabce145cead6fbc2
+Author: Lown Ignitus <lownignitus@gmail.com>
+Date:   Fri Feb 5 15:15:02 2021 -0700
+
+    TOC Additions
+    
+    added X-Curse-Project-ID to toc to help WoWUp client
+

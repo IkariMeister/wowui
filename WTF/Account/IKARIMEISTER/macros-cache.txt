@@ -1,0 +1,52 @@
+VER 3 00000000000002E6 "aoe hunter" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [nomod] Multi-shot
+/cast [mod:shift,@cursor] Volley
+/cast [mod:ctrl,@cursor] Explosive shot
+END
+VER 3 00000000000002F8 "BL MM" "INV_MISC_QUESTIONMARK"
+#showtooptip
+/cast [nopet] Call Pet 4
+/cast [pet][pet,mod:ctrl] dismiss pet
+/cast [pet,nomod] Primal Rage
+/cast [nopet,mod:shift] Survival of the Fittest(Lone Wolf Ability)
+/cast [pet,mod:shift] mend pet
+--
+END
+VER 3 00000000000002F7 "CR Ingenieria" "INV_MISC_QUESTIONMARK"
+#showtooltip Disposable Spectrophasic Reanimator
+/use [combat, dead, help]  Disposable Spectrophasic Reanimator
+/use [nocombat, dead, help] Ultimate Gnomish Army Knife
+END
+VER 3 000000000000000C "Decursive" "INV_Misc_QuestionMark"
+/stopcasting
+/cast [@mouseover,nomod,exists] Cleanse;  [@mouseover,exists,mod:ctrl] Cleanse; [@mouseover,exists,mod:shift] Cleanse
+END
+VER 3 00000000000002FE "double macro" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/click [mod:shift] MultiBarBottomLeftButton7; [mod:ctrl] MultiBarBottomLeftButton6; MultiBarBottomLeftButton1
+END
+VER 3 00000000000002FB "kyrian poti" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] phial of serenity
+/cast [mod:shift] Summon Steward
+END
+VER 3 00000000000002FD "RANDOMTOY" "INV_MISC_QUESTIONMARK"
+#showtooltip Never Ending Toy Chest
+/randomtoy check
+/cast Stolen Breath
+END
+VER 3 00000000000002FC "sugus de brujo" "INV_MISC_QUESTIONMARK"
+#showtooltip Healthstone
+/stopcasting
+/stopcasting
+/use Healthstone
+END
+VER 3 00000000000002F9 "Trinket 1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 00000000000002FA "Trinket 2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END

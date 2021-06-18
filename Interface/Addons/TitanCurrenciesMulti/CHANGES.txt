@@ -1,0 +1,10 @@
+lightweight tag c4349ad753d4a94934abdd48ef2390fc8a1bd457 v7.12.0
+Author:	Paulo <paulo@canetti.net>
+Date:	Tue May 11 16:00:19 2021 -0300
+
+commit c4349ad753d4a94934abdd48ef2390fc8a1bd457
+Author: Paulo <paulo@canetti.net>
+Date:   Tue May 11 16:00:19 2021 -0300
+
+    (Lesser Charm of Good Fortune) added
+

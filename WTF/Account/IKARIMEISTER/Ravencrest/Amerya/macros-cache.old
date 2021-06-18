@@ -1,0 +1,32 @@
+VER 3 0100000000000002 "montura prot" "Ability_Mount_Razorscale"
+/dismount;
+/cast [nomounted] !Crusader Aura 
+/castrandom [flyable] Snowy Gryphon
+/castrandom Charger
+/cast [mounted] !Devotion Aura
+/dismount [mounted]
+END
+VER 3 0100000000000001 "montura retri" "Ability_Mount_GoldenGryphon"
+/dismount;
+/cast [nomounted] !Crusader Aura 
+/castrandom [flyable] Snowy Gryphon
+/castrandom Charger
+/cast [mounted] !Retribution Aura
+/dismount [mounted]
+END
+VER 3 0100000000000003 "redemption" "Spell_Holy_Resurrection"
+#showtooltip
+/cast Redemption
+/stopmacro [nohelp][nodead]
+/p Resurrecting %t
+/raid Resurrecting %t.
+END
+VER 3 0100000000000005 "sacred" "Spell_Holy_RemoveCurse"
+/cast [target=self] Sacred Shield
+/cast [mod]
+END
+VER 3 0100000000000004 "Taunt" "Spell_Nature_Reincarnation"
+#showtooltip
+/cast [target=mouseover,help], [mod:ctrl], [target=target,help] Righteous Defense
+/cast Hand of Reckoning
+END

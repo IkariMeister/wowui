@@ -1,0 +1,91 @@
+VER 3 0100000000000015 "CD off healer" "INV_MISC_QUESTIONMARK"
+#showtooltip Convoke the spirits
+/cast [noform:4] Moonkin Form
+/use 13
+/use 14
+/cast Berserking
+/cast Convoke the Spirits
+/cast [talent: 4/3] Heart of the Wild
+END
+VER 3 0100000000000007 "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/say Malfurion is a pussy
+/cast Celestial Alignment
+/cast [talent: 5/3] Incarnation: Chosen of Elune(Talent, Shapeshift)
+/use 13
+/use 14
+/cast Berserking
+/cast Convoke the Spirits
+END
+VER 3 010000000000000D "CDs con mods" "INV_MISC_QUESTIONMARK"
+#showtooltip Celestial Alignment
+/click [mod:shift] MultiBarBottomLeftButton7; [mod:ctrl] MultiBarBottomLeftButton6;MultiBarBottomLeftButton1
+END
+VER 3 010000000000000E "CDs defensivos2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] ironfur; frenzied regeneration
+END
+VER 3 010000000000000C "CDs tank" "INV_MISC_QUESTIONMARK"
+#showtootip
+/cast [mod:ctrl,talent 5/3] Incarnation: Guardian of Ursoc(Talent, Shapeshift); [mod:ctrl] Berserk; [mod:shift] Survival Instincts; Barkskin 
+END
+VER 3 0100000000000008 "DispelCR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nodead] Remove Corruption
+/cast  [dead,combat] Nature Swiftness
+/cast  [dead,combat] Rebirth
+/cast [dead,nocombat] Revive
+END
+VER 3 0100000000000004 "Moonfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Moonfire
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Moonfire
+END
+VER 3 0100000000000009 "Roar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=120 Stampeding Roar, Moonkin Form
+END
+VER 3 0100000000000013 "Soothe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Soothe
+END
+VER 3 0100000000000011 "Starfire moonkin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noform:4] Moonkin Form
+/cast Starfire
+END
+VER 3 0100000000000012 "Starsauge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noform:4] Moonkin Form
+/cast Starsurge
+END
+VER 3 0100000000000005 "Sunfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Sunfire
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Sunfire
+END
+VER 3 010000000000000F "travel oso" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomounted,outdoors] travel form
+/cast [noform:1] Bear Form
+END
+VER 3 0100000000000003 "travel Pollo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomounted,outdoors] travel form
+/cast [noform:4] Moonkin Form
+END
+VER 3 010000000000000B "Utilidad2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent: 2/1] Tiger Dash
+/cast [talent: 2/2] Renewal
+/cast [talent: 2/3] Wild Charge
+END
+VER 3 0100000000000006 "Utility" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent: 4/1] Mighty Bash
+/cast [talent: 4/2] Mass Entanglement
+/cast [talent: 4/3] Heart of the Wild
+END
+VER 3 0100000000000014 "wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noform:4] Moonkin Form
+/cast Wrath
+END

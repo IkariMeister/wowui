@@ -1,0 +1,22 @@
+lightweight tag 32d38e8fa52445c118398a213591425c8cf3f307 9.0.1.0
+Author:	Yunohu <kernighan@gmail.com>
+Date:	Fri Oct 30 16:19:07 2020 +0000
+
+commit 32d38e8fa52445c118398a213591425c8cf3f307
+Author: Yunohu <kernighan@gmail.com>
+Date:   Fri Oct 30 16:19:07 2020 +0000
+
+    Update for 9.0.1 pre-release
+
+commit f40a6b30e74b3359e45789c16401112ac05d551f
+Author: Yunohu <kernighan@gmail.com>
+Date:   Sun Oct 13 00:08:50 2019 +0000
+
+    Add pkgmeta file
+
+commit 45c7695fcdbd70bd4ed237a2a764d6520500cda7
+Author: Yunohu <kernighan@gmail.com>
+Date:   Sun Oct 13 00:08:09 2019 +0000
+
+    Fix #2 - Localize hide menu option so it works
+

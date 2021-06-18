@@ -1,0 +1,12 @@
+## Interface: 90001
+## Title: Titan Panel [|cffeda55fRecomended Zone|r] |cff00aa009.0.1.0|r
+## Notes: Displays level for current zone and recommends zones and instances for your level.
+## Version: 9.0.1.0
+## X-Date: 2020-10-30
+## Author: Kernighan
+## SavedVariables: 
+## SavedVariablesPerCharacter: 
+## OptionalDeps: 
+## Dependencies: Titan
+Libs\Libs.xml
+TitanRecZone.xml

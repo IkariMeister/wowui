@@ -1,0 +1,47 @@
+VER 3 010000000000000A "CD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2] Apotheosis; [talent:7/3] Holy Word: Salvation
+END
+VER 3 0100000000000007 "Damnation/VT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/1] Damnation; [talent:6/3] Void Torrent;
+END
+VER 3 0100000000000005 "feather" "INV_MISC_QUESTIONMARK"
+#showtooltip Angelic Feather
+/cast [@player] Angelic Feather
+/stopspelltarget
+END
+VER 3 0100000000000009 "Mass dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Mass Dispel
+END
+VER 3 0100000000000004 "Penance" "INV_MISC_QUESTIONMARK"
+#showtooltip Penance
+/cast [harm] Penance
+END
+VER 3 010000000000000D "PWB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@vuhdu] Power Word: Barrier
+END
+VER 3 010000000000000C "Ress" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [combat, dead, help]  Disposable Spectrophasic Reanimator
+/cast [nocombat, dead, help] Mass Resurrection
+/cast [nodead] Purify
+END
+VER 3 0100000000000006 "Sear Nightmare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [channeling:Mind Sear,talent:3/3] Searing Nightmare; [@mouseover,harm,nodead] [] Shadow Word: Pain
+END
+VER 3 0100000000000008 "Shadow Crash" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Crash
+/cast [@cursor] Shadow Crash
+END
+VER 3 0100000000000003 "smite" "INV_MISC_QUESTIONMARK"
+#showtooltip Smite
+/cast [nochanneling:Penance] Smite
+END
+VER 3 010000000000000B "Vampiric" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] [] Vampiric Touch
+END

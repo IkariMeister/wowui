@@ -1,0 +1,89 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0417,
+	["LastPlayerFullName"] = "Zakurochan-Tyrande",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 78793,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:78793:4209:68778:52212:::::33:253:::::::|h[Wyrmstalker's Headguard]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 77091,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:77091::::::::33:253:::::::|h[Cameo of Terrible Memories]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 71053,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:71053:4193:52212::::::33:253:::::::|h[Flamewaker's Spaulders]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 71054,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:71054::52212:52211:::::33:253:::::::|h[Flamewaker's Tunic]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 77182,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:77182::52212:52220:52212::::33:253:::::::|h[Cord of Dragon Sinew]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 78804,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:78804:4126:52212:52212:52212::::33:253:::::::|h[Wyrmstalker's Legguards]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 77175,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:77175:4076:52212:52211:::::33:253:::::::|h[Boneshard Boots]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 87293,
+			["Level"] = 38,
+			["Link"] = "|cff0070dd|Hitem:87293::::::::33:253:::::::|h[Defiant Archer's Bracers]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 78362,
+			["Level"] = 38,
+			["Link"] = "|cffa335ee|Hitem:78362:4068:52212:52212:::::33:253:::::::|h[Sporebeard Gauntlets]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 78011,
+			["Level"] = 37,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:78011::52212::::::33:253:::::::|h[Signet of Grasping Mouths]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 77111,
+			["Level"] = 37,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:77111::52211::::::33:253:::::::|h[Emergency Descent Loop]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 77202,
+			["Level"] = 37,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:77202::::::::33:253:::::::|h[Starcatcher Compass]|h|r",
+		}, -- [13]
+		nil, -- [14]
+		{
+			["ID"] = 71415,
+			["Level"] = 37,
+			["Link"] = "|cffa335ee|Hitem:71415:1099:52212:52212:::::33:253:::::::|h[Dreadfire Drape]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 80872,
+			["Level"] = 38,
+			["Link"] = "|cff0070dd|Hitem:80872::::::::33:253:::::::|h[Firebelcher Hand Cannon]|h|r",
+		}, -- [16]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "HUNTER",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

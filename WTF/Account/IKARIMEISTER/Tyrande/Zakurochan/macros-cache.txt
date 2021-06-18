@@ -1,0 +1,19 @@
+VER 3 0100000000000003 "CDs" "Ability_Druid_FerociousBite"
+#showtooltip
+/cast Call of the Wild
+/cast Rapid Fire
+END
+VER 3 0100000000000002 "Misdirection" "Ability_Hunter_Misdirection"
+#showtooltip
+/cast [target=focus] Misdirection
+END
+VER 3 0100000000000001 "Monturas" "Ability_Mount_Drake_Bronze"
+/castrandom [flyable] Albino Drake,Bloodbathed Frostbrood Vanquisher,Bronze Drake,Drake of the North Wind,Rusted Proto-Drake,Violet Proto-Drake
+/cast Golden King
+END
+VER 3 0100000000000004 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000005 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Zak[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

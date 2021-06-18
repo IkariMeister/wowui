@@ -1,0 +1,4 @@
+
+DCovenant = {
+	["iconSize"] = 16,
+}

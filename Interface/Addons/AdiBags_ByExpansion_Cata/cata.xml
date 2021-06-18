@@ -1,0 +1,53 @@
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+    <Script file="categories\consumable.lua"/>
+    <Script file="categories\junk.lua"/>
+    <Script file="categories\loot.lua"/>
+    <Script file="categories\misc.lua"/>
+    <Script file="categories\pets.lua"/>
+    <Script file="categories\toys.lua"/>
+    <Script file="categories\trade.lua"/>
+    <Script file="categories\transmog.lua"/>
+
+    <Script file="professions\crafting\alchemy.lua"/>
+    <Script file="professions\crafting\blacksmithing.lua"/>
+    <Script file="professions\crafting\enchanting.lua"/>
+    <Script file="professions\crafting\engineering.lua"/>
+    <Script file="professions\crafting\inscription.lua"/>
+    <Script file="professions\crafting\jewelcrafting.lua"/>
+    <Script file="professions\crafting\leatherworking.lua"/>
+    <Script file="professions\crafting\tailoring.lua"/>
+
+    <Script file="professions\gathering\cloth.lua"/>
+    <Script file="professions\gathering\herbalism.lua"/>
+    <Script file="professions\gathering\mining.lua"/>
+    <Script file="professions\gathering\skinning.lua"/>
+
+    <Script file="professions\secondary\archaeology.lua"/>
+    <Script file="professions\secondary\cooking.lua"/>
+    <Script file="professions\secondary\fishing.lua"/>
+
+    <Script file="dungeons\blackrock.lua"/>
+    <Script file="dungeons\deadmines.lua"/>
+    <Script file="dungeons\endtime.lua"/>
+    <Script file="dungeons\grimbatol.lua"/>
+    <Script file="dungeons\hoo.lua"/>
+    <Script file="dungeons\hot.lua"/>
+    <Script file="dungeons\sfk.lua"/>
+    <Script file="dungeons\stonecore.lua"/>
+    <Script file="dungeons\throne.lua"/>
+    <Script file="dungeons\tolvir.lua"/>
+    <Script file="dungeons\vortex.lua"/>
+    <Script file="dungeons\well.lua"/>
+    <Script file="dungeons\zulaman.lua"/>
+    <Script file="dungeons\zulgurub.lua"/>
+
+    <Script file="raids\bot.lua"/>
+    <Script file="raids\bwd.lua"/>
+    <Script file="raids\ds.lua"/>
+    <Script file="raids\firelands.lua"/>
+    <Script file="raids\fourwinds.lua"/>
+    <Script file="raids\bh.lua"/>
+    <Script file="raids\multi.lua"/>
+
+    <Script file="main.lua"/>
+</Ui>

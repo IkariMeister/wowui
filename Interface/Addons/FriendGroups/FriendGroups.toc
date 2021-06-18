@@ -1,0 +1,9 @@
+## Interface: 90005
+## Title: Friend Groups
+## Author: Mikeprod
+## Edited by Thainii
+
+## Notes: Addon managing your contact list with groups
+## SavedVariables: FriendGroups_SavedVars
+
+FriendGroups.lua

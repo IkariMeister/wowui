@@ -1,0 +1,79 @@
+VER 3 010000000000000C "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Celestial Alignment
+/cast [talent: 5/3] Incarnation: Chosen of Elune(Talent, Shapeshift)
+/use 13
+/use 14
+/cast Convoke the Spirits
+END
+VER 3 010000000000000A "cyclone" "INV_MISC_QUESTIONMARK"
+#showtooltip Cyclone
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Cyclone
+END
+VER 3 0100000000000012 "Dash" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence [reset=120] Dash, Moonkin Form
+END
+VER 3 0100000000000007 "moonfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Moonfire
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Moonfire
+END
+VER 3 0100000000000006 "roar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence [reset=120] Stampeding Roar, Moonkin Form
+END
+VER 3 0100000000000009 "root" "INV_MISC_QUESTIONMARK"
+#showtooltip Entangling Roots
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Entangling Roots
+END
+VER 3 0100000000000011 "soothe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Soothe
+END
+VER 3 010000000000000B "soothe" "INV_MISC_QUESTIONMARK"
+#showtooltip Soothe
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Soothe
+END
+VER 3 010000000000000F "starfire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noform:4] Moonkin Form
+/cast Starfire
+END
+VER 3 0100000000000010 "starsurge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noform:4] Moonkin Form
+/cast Starsurge
+END
+VER 3 0100000000000008 "sunfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Sunfire
+/cast [@mouseover,harm,nodead][@target,harm,nodead]Sunfire
+END
+VER 3 010000000000000D "travel guardian" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomounted,outdoors] travel form
+/cast [stance:3] bear form
+/cast [indoor] bear form
+END
+VER 3 0100000000000005 "travel moonkin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomounted,outdoors] travel form
+/cast [stance:3] moonkin form
+/cast [indoor] moonkin form
+END
+VER 3 0100000000000003 "utility" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent: 4/1] Mighty Bash
+/cast [talent: 4/2] Mass Entanglement
+/cast [talent: 4/3] Heart of the Wild
+END
+VER 3 0100000000000004 "utility2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent: 2/1] Tiger Dash
+/cast [talent: 2/2] Renewal
+/cast [talent: 2/3] Wild Charge
+END
+VER 3 0100000000000013 "wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noform:4] Moonkin Form
+/cast wrath
+END

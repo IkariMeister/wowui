@@ -1,0 +1,79 @@
+VER 3 0100000000000006 "Aimed Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Aimed Shot
+/petattack
+/cast Aimed Shot
+END
+VER 3 0100000000000008 "Arcane Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling:rapid fire,@mouseover,harm][nochanneling:rapid fire]Arcane Shot
+END
+VER 3 010000000000000E "Binding shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@focus,exists,harm][@mouseover,harm][@target]Binding Shot
+END
+VER 3 0100000000000013 "CDs BM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Aspect of the Wild
+/use [@cursor]Wild Spirits
+END
+VER 3 0100000000000003 "Counter Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Counter Shot
+/stopcasting
+/cast [@focus,exists,harm][@mouseover,harm][@target]Counter Shot
+END
+VER 3 0100000000000004 "Disengage" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting [nochanneling: rapid fire]
+/cast disengage
+END
+VER 3 0100000000000012 "dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@focus,exists,harm][@mouseover,harm][@target]Tranquilizing Shot
+END
+VER 3 010000000000000D "double Tap" "INV_MISC_QUESTIONMARK"
+#showtooltip double tap
+/cast [nochanneling:rapid fire] double tap
+END
+VER 3 0100000000000007 "Kill Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Kill Shot
+/cast [@mouseover, harm, nodead][] Kill Shot
+END
+VER 3 0100000000000011 "Mend/Revive" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@pet, dead] Revive Pet; Mend Pet
+END
+VER 3 0100000000000005 "Misdirection" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+/stopcasting
+/cast [@focus,exists][@mouseover,help][@pet,exists][@target] Misdirection
+END
+VER 3 010000000000000F "Pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use  [nopet] Call Pet 4; [pet] Dismiss Pet; 
+END
+VER 3 010000000000000B "Steady Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip steady shot
+/cast [nochanneling:rapid fire] steady shot
+END
+VER 3 010000000000000C "Trueshoot" "INV_MISC_QUESTIONMARK"
+#showtooltip trueshot
+/cast [nochanneling:rapid fire] trueshot
+END
+VER 3 0100000000000009 "Volley" "INV_MISC_QUESTIONMARK"
+#showtooltip Volley
+/cast [@cursor] Volley
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Dok[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000A "Wild Spirits" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Spirits
+/use [nochanneling:rapid fire] trueshot
+/use [@cursor]Wild Spirits
+/use 13
+END

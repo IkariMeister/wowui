@@ -1,0 +1,28 @@
+VER 3 0100000000000008 "AOE ele" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Earthquake; Chain Lightning
+END
+VER 3 0100000000000004 "BL Ascendance" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:shift] Bloodlust; Ascendance
+END
+VER 3 0100000000000006 "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:shift] Fire Elemental; [mod:ctrl] Bloodlust; Stormkeeper
+END
+VER 3 0100000000000009 "fire shock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Flame Shock
+END
+VER 3 0100000000000003 "frost shock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Frost Shock
+END
+VER 3 0100000000000007 "SWG/AS" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [mod:shift] Spiritwalker's Grace; [mod:ctrl] Earth Elemental; Astral Shift
+END
+VER 3 0100000000000005 "totems ralentiza" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Earthbind Totem; Capacitor Totem
+END

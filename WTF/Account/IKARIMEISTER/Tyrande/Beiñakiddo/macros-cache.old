@@ -1,0 +1,40 @@
+VER 3 010000000000000A "AOE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Leg Sweep; Spinning Crane Kick
+END
+VER 3 0100000000000004 "CDs Tank" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Invoke Niuzao, the Black Ox; [mod:shift] Purifying Brew; Celestial Brew
+END
+VER 3 010000000000000B "CDs Tank2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl] Fortifying Brew; [mod:shift] Purifying Brew; Expel Harm
+END
+VER 3 0100000000000008 "interrupt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] Spear Hand Strike; Spear Hand Strike
+END
+VER 3 0100000000000005 "Talent 35" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift, talent 4/3]Ring of Peace; [talent:4/1]Leg Sweep;[talent:4/2]Summon Black Ox Statue;[@cursor,talent:4/3]Ring of Peace
+END
+VER 3 0100000000000006 "Talent 40" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:5/1] Stagger;[talent:5/2]Healing Elixir;[talent:5/3]Dampen Harm
+/cast [talent:5/2]Healing Elixir;[talent:5/3]Dampen Harm
+END
+VER 3 0100000000000007 "Talent 45" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:6/1]Keg Smash;[talent:6/2]Rushing Jade Wind;[talent:6/3]Exploding Keg
+/cast [talent:6/2]Rushing Jade Wind;[talent:6/3]Exploding Keg
+END
+VER 3 0100000000000009 "Taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Provoke
+/cast [nomod,@mouseover,harm,nodead] Provoke
+/cast [nomod] Provoke
+/targetexact [mod:alt] Black Ox Statue
+/cast [mod:alt] Provoke
+/targetlasttarget [mod:alt,exists]
+END
+VER 3 010000000000000C "Trascendence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Transcendence;Transcendence: Transfer
+END

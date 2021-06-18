@@ -1,0 +1,4 @@
+VER 3 0100000000000003 "agostar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][] Scorch
+END

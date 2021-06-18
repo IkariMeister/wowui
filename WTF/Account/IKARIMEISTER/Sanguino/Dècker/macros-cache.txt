@@ -1,0 +1,60 @@
+VER 3 010000000000000D "basico" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/3] Fracture; Shear
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 0100000000000010 "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Metamorphosis; Fel Devastation
+END
+VER 3 0100000000000005 "Chains" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl @player] Sigil of Chains; [nomod, @cursor] Sigil of Chains
+END
+VER 3 0100000000000003 "Damage" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl @player] Sigil of Flame; [nomod, @cursor] Sigil of Flame
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 010000000000000A "Dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Consume Magic
+END
+VER 3 010000000000000E "Fear/Silence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift, @cursor] Sigil of Misery;[mod:ctrl, @cursor] Sigil of Chains; [@cursor] Sigil of Silence
+END
+VER 3 0100000000000007 "infernal strike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl, @player] Infernal Strike; [nomod, @cursor] Infernal Strike
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 010000000000000B "Kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Disrupt
+END
+VER 3 0100000000000009 "kyrian" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl @player] Elysian Decree; [nomod, @cursor] Elysian Decree
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 010000000000000F "Offensive sigils" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl, @cursor][modifier:shift,@cursor] Elysian Decree(Kyrian); [@cursor] Sigil of Flame
+END
+VER 3 0100000000000004 "SFear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl @player] Sigil of Misery; [nomod, @cursor] Sigil of Misery
+END
+VER 3 0100000000000006 "Silence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl @player] Sigil of Silence; [nomod, @cursor] Sigil of Silence
+END
+VER 3 0100000000000008 "Taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Torment
+END
+VER 3 010000000000000C "Throw Glaive" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Throw Glaive
+END

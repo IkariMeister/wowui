@@ -1,0 +1,4 @@
+VER 3 0100000000000003 "Alitas ashen" "INV_MISC_QUESTIONMARK"
+#showtooltip Avenging Wrath
+/click [mod:shift] MultiBarBottomLeftButton7; MultiBarBottomLeftButton1
+END

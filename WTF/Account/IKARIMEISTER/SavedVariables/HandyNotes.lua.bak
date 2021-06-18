@@ -1,0 +1,103 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Triguera - Ravencrest"] = "Triguera - Ravencrest",
+		["Nukkita - Sanguino"] = "Nukkita - Sanguino",
+		["Zakurochan - Sanguino"] = "Zakurochan - Sanguino",
+		["Triguera - Dun Modr"] = "Triguera - Dun Modr",
+		["Dokushammy - Uldum"] = "Dokushammy - Uldum",
+		["Estrela - Sanguino"] = "Estrela - Sanguino",
+		["Triguera - Sanguino"] = "Triguera - Sanguino",
+		["Dokufurry - Uldum"] = "Dokufurry - Uldum",
+		["Dècker - Sanguino"] = "Dècker - Sanguino",
+		["Amerya - Dun Modr"] = "Amerya - Dun Modr",
+		["Dokushammy - Tyrande"] = "Dokushammy - Tyrande",
+		["Dokurochän - Sanguino"] = "Dokurochän - Sanguino",
+		["Paülaner - Sanguino"] = "Paülaner - Sanguino",
+		["Ameria - Sanguino"] = "Ameria - Sanguino",
+		["Beiñakiddo - Tyrande"] = "Beiñakiddo - Tyrande",
+	},
+	["profiles"] = {
+		["Triguera - Ravencrest"] = {
+		},
+		["Nukkita - Sanguino"] = {
+		},
+		["Zakurochan - Sanguino"] = {
+		},
+		["Triguera - Dun Modr"] = {
+		},
+		["Dokushammy - Uldum"] = {
+		},
+		["Estrela - Sanguino"] = {
+		},
+		["Triguera - Sanguino"] = {
+		},
+		["Dokufurry - Uldum"] = {
+		},
+		["Dècker - Sanguino"] = {
+		},
+		["Amerya - Dun Modr"] = {
+		},
+		["Dokushammy - Tyrande"] = {
+		},
+		["Dokurochän - Sanguino"] = {
+		},
+		["Paülaner - Sanguino"] = {
+		},
+		["Ameria - Sanguino"] = {
+		},
+		["Beiñakiddo - Tyrande"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Triguera - Ravencrest"] = "Triguera - Ravencrest",
+		["Nukkita - Sanguino"] = "Nukkita - Sanguino",
+		["Zakurochan - Sanguino"] = "Zakurochan - Sanguino",
+		["Triguera - Dun Modr"] = "Triguera - Dun Modr",
+		["Dokushammy - Uldum"] = "Dokushammy - Uldum",
+		["Estrela - Sanguino"] = "Estrela - Sanguino",
+		["Triguera - Sanguino"] = "Triguera - Sanguino",
+		["Dokufurry - Uldum"] = "Dokufurry - Uldum",
+		["Dècker - Sanguino"] = "Dècker - Sanguino",
+		["Amerya - Dun Modr"] = "Amerya - Dun Modr",
+		["Dokushammy - Tyrande"] = "Dokushammy - Tyrande",
+		["Dokurochän - Sanguino"] = "Dokurochän - Sanguino",
+		["Paülaner - Sanguino"] = "Paülaner - Sanguino",
+		["Ameria - Sanguino"] = "Ameria - Sanguino",
+		["Beiñakiddo - Tyrande"] = "Beiñakiddo - Tyrande",
+	},
+	["profiles"] = {
+		["Triguera - Ravencrest"] = {
+		},
+		["Nukkita - Sanguino"] = {
+		},
+		["Zakurochan - Sanguino"] = {
+		},
+		["Triguera - Dun Modr"] = {
+		},
+		["Dokushammy - Uldum"] = {
+		},
+		["Estrela - Sanguino"] = {
+		},
+		["Triguera - Sanguino"] = {
+		},
+		["Dokufurry - Uldum"] = {
+		},
+		["Dècker - Sanguino"] = {
+		},
+		["Amerya - Dun Modr"] = {
+		},
+		["Dokushammy - Tyrande"] = {
+		},
+		["Dokurochän - Sanguino"] = {
+		},
+		["Paülaner - Sanguino"] = {
+		},
+		["Ameria - Sanguino"] = {
+		},
+		["Beiñakiddo - Tyrande"] = {
+		},
+	},
+}

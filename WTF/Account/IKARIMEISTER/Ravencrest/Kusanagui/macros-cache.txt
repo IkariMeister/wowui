@@ -1,0 +1,66 @@
+VER 3 0100000000000008 "Bone shield" "Spell_Holy_ArdentDefender"
+#showtooltip Bone Shield
+/cast Blood Tap
+/cast Bone Shield
+END
+VER 3 0100000000000009 "Death Strike" "Spell_DeathKnight_Butcher2"
+#showtooltip Death Strike
+/cast !Runes Strike
+/cast Death Strike
+END
+VER 3 010000000000000B "DG" "Ability_Ambush"
+/cast Death Grip
+/cast Chains of Ice
+END
+VER 3 0100000000000007 "DRW" "Spell_Shadow_Shadowfiend"
+#showtooltip Dancing Rune Weapon
+/cast [target=player] Dancing Rune Weapon
+END
+VER 3 0100000000000002 "Emergencia" "Ability_Creature_Cursed_02"
+#showtooltip Raise Dead
+/castsequence Raise Dead, Death Pact
+END
+VER 3 0100000000000001 "HS+RS" "Spell_Deathknight_DeathStrike"
+#showtooltip Heart Strike
+/cast !rune strike
+/cast Heart Strike
+END
+VER 3 0100000000000005 "Montura DK" "Ability_Mount_EbonGryphon"
+/dismount;
+/castrandom [flyable] Ebon Gryphon;
+/castrandom Acherus Deathcharger;
+END
+VER 3 0100000000000004 "Obliterate dopao" "Spell_Deathknight_ClassIcon"
+#showtooltip Obliterate
+/console Sound_EnableSFX 0
+/cast Rune Strike
+/cat Deathchill
+/console Sound_EnableSFX 1
+/cast Obliterate(Rank 4)
+/run UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C "Outbreak" "Ability_Creature_Poison_02"
+#showtooltip Outbreak
+/cast Outbreak
+/cast Horn of Winter
+END
+VER 3 0100000000000003 "pull" "Spell_Shadow_AntiMagicShell"
+/cast Empower Rune Weapon
+/cast Anti-Magic Shell
+END
+VER 3 0100000000000006 "SS+RS" "Spell_DeathKnight_ScourgeStrike"
+#showtooltip Scourge Strike
+/use !rune strike
+/cast Scourge Strike(Rank 4)
+END
+VER 3 010000000000000A "UA" "Spell_DeathKnight_BloodTap"
+#showtooltip Pillar of Frost
+/cast Blood Tap
+/cast Pillar of Frost
+END
+VER 3 010000000000000D "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000E "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Kus[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

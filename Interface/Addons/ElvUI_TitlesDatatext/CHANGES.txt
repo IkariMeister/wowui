@@ -1,0 +1,12 @@
+tag b0301384e826e8ad6e1c63d7486587725b182c2d 3.2.2
+Author:	Adam Koch <me@adamko.ch>
+Date:	Tue Mar 9 11:26:54 2021 -0500
+
+3.2.2 Release
+
+commit 96ef20b2c8a7aa155eb28d0103441321dc898610
+Author: Adam Koch <me@adamko.ch>
+Date:   Tue Mar 9 11:26:27 2021 -0500
+
+    Update TOC for 9.0.5.
+

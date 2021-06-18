@@ -1,0 +1,140 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/gladius", -- [1]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"Pala heal 1900io busca grupo fijo de miticas ", -- [1]
+			"Zersia-Sanguino", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zersia-Sanguino", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4004, -- [11]
+			"Player-1379-07A66B3E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Zersia-Sanguino|r",
+			[51] = 1619740374,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"- High Quality - CN 9/10MM. Recluta DPS: dk, elemental y warlock. Heal: shaman, disci y pala. D - J 22:00 - 00:30. Whisp me para mas info.", -- [1]
+			"Bowjob-Zul'jin", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bowjob-Zul'jin", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4005, -- [11]
+			"Player-1379-0A822105", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bowjob-Zul'jin|r",
+			[51] = 1619740384,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"<RAVENCREST UNION> ¡Estamos vendiendo M+0 a 22, garantizado en tiempo y todo el equipo intercambiado! ¡Armorstacks y llaves específicas! ¡Consigue una pieza 226ilvl en el Cofre Semanal! ¡También estamos ofreciendo Castillo Nathria HC y Mythic, /W me", -- [1]
+			"Chikoki-Sanguino", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chikoki-Sanguino", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4006, -- [11]
+			"Player-1379-0A9B2A05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Chikoki-Sanguino|r",
+			[51] = 1619740385,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"<BOOST> Se vende rush de m+15 in time. Consigue tu 226 semanal |cffffff00|Hachievement:14532:Player-1379-0A7DE9C8:1:12:29:20:4294967295:4294967295:4294967295:4294967295|h[Maestro de la piedra angular de Shadowlands: temporada 1]|h|r /w", -- [1]
+			"Puriinna-Sanguino", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Puriinna-Sanguino", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4008, -- [11]
+			"Player-1379-097180A3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Puriinna-Sanguino|r",
+			[51] = 1619740408,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"> >NOVA<< Offering  Mythic+ (+0/+20 In time)   ||  Castle Nathria 10/10 Heroic and Mythic  ||  Torghast and Twisting Corridors L 1-8  ||  >LEVELING< (50-60)  || PVP [Arena and RBG] ||  Only for gold  ||      /w for More Info! ", -- [1]
+			"Novafyre-Sanguino", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novafyre-Sanguino", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4010, -- [11]
+			"Player-1379-0AA3A836", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Novafyre-Sanguino|r",
+			[51] = 1619740481,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"- High Quality - CN 9/10MM. Recluta DPS: dk, elemental y warlock. Heal: shaman, disci y pala. D - J 22:00 - 00:30. Whisp me para mas info.", -- [1]
+			"Bowjob-Zul'jin", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bowjob-Zul'jin", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4017, -- [11]
+			"Player-1379-0A822105", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bowjob-Zul'jin|r",
+			[51] = 1619740721,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+	},
+}

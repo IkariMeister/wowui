@@ -1,0 +1,13 @@
+## Interface: 90005
+## Title: VocalRaidAssistant
+## Notes: Raid Cooldown Alerter
+## Author: Nitrak
+## SavedVariables: VocalRaidAssistantDB
+## Version: 1.6.6
+
+embeds.xml
+Locales\locales.xml
+
+VocalRaidAssistant.lua
+spelllist.lua
+options.lua

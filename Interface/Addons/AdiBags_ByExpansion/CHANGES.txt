@@ -1,0 +1,128 @@
+tag 0129d7e5ccd11ed3ac4a78ba6d98c16ae41058d8 v1.3.0
+Author:	davidcraig <davidcraig1986@gmail.com>
+Date:	Thu Jan 28 22:38:27 2021 +0000
+
+v1.3.0
+
+commit 58ce706afda1c6c4cec7b639fa0fe34fd52d6c34
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Thu Jan 28 22:37:28 2021 +0000
+
+    Refactoring to make options more customisable (respects profile choices).
+    
+    Add ability to unselect more categories, such as anima, legendaries etc.
+
+commit 9049e420f88fe2040f7092225a2d1a8808bc6824
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Thu Jan 28 21:51:26 2021 +0000
+
+    Switch expTable from nesting if to early return.
+
+commit 6a0ab9347779a4a9bfdc24e6af98766e119aa87d
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Thu Jan 28 21:50:51 2021 +0000
+
+    Add more items.
+
+commit a4c64275979373e8c199fc85e8a8e59d0d4fe50e
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Thu Jan 28 18:39:22 2021 +0000
+
+    Build.
+
+commit 1777d1969b9b18d5ed9e41377b3a6f022a8dfb2f
+Author: Filip Patafta <fpatafta@live.com>
+Date:   Wed Jan 27 13:00:09 2021 +0100
+
+    added and ordered druid conduits
+
+commit 1777d1969b9b18d5ed9e41377b3a6f022a8dfb2f
+Author: Filip Patafta <fpatafta@live.com>
+Date:   Wed Jan 27 13:00:09 2021 +0100
+
+    added and ordered druid conduits
+
+commit 12262334d4dd33e978c72ec89126a0c92a6ec634
+Author: Filip Patafta <fpatafta@live.com>
+Date:   Wed Jan 27 12:47:10 2021 +0100
+
+    added new shaman conduits and ordered them
+
+commit f0098feabaf7e8eb42399fd1581cc341424c03ff
+Author: Filip Patafta <fpatafta@live.com>
+Date:   Wed Jan 27 12:27:15 2021 +0100
+
+    fixed anima power duplicates
+
+commit 93e4ff48b01904ec8b07a980649a56ed076bda09
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Sun Jan 24 21:10:35 2021 +0000
+
+    Sort conduits by id.
+
+commit 93e4ff48b01904ec8b07a980649a56ed076bda09
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Sun Jan 24 21:10:35 2021 +0000
+
+    Sort conduits by id.
+
+commit 67c26a70deddc2d53eda635038151aa7b587440f
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Sun Jan 24 21:06:51 2021 +0000
+
+    Add conduits from https://github.com/ps-wow/Adibags_ByExpansion/pull/15
+
+commit de0ff9f5851c88f2d02a3a4ab220b4bd1d1f37b5
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Sun Jan 24 20:56:45 2021 +0000
+
+    Push change to prevent junk always being included if toggled off.
+
+commit 33560124a2728cd5862a6a9819e323d05248e54d
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Thu Jan 21 22:10:11 2021 +0000
+
+    More items.
+
+commit 96299feb2da1d8d300cfd37c4ea1f31c5d8136ff
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Wed Jan 20 14:50:31 2021 +0000
+
+    Loot.
+
+commit adb2db590e7f32f8d2d80e30f6dfcbbe7bd10477
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Tue Jan 19 18:34:50 2021 +0000
+
+    Add more anima and transmog items.
+
+commit 134d6af5c8a56f314d64e7613f5e10b5130725d5
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Sun Jan 17 13:15:10 2021 +0000
+
+    Misc.
+
+commit 70d760494e4b6fe82511328c2caccdd1a145d65c
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Fri Jan 15 17:32:19 2021 +0000
+
+    Add night fae druid campaign items. (Oakheart)
+
+commit 84c16ffab1464a29aadbdae5a96f80705887620d
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Thu Jan 14 13:51:35 2021 +0000
+
+    Misc.
+
+commit 7f38fdc479d0f1f0121c795b23eb2af7087c41e2
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Wed Jan 13 16:26:43 2021 +0000
+
+    Add shaded stone.
+
+commit e6d2b5638da58f9018a3698cf0b39fb103ffe7f7
+Author: davidcraig <davidcraig1986@gmail.com>
+Date:   Wed Jan 13 13:30:28 2021 +0000
+
+    Add more items.
+

@@ -1,0 +1,66 @@
+tag 487a3862add1e8b375ee859423db5fcd5e324250 V2.9
+Author:	SLOKnightfall <SLOKnightfall@gmail.com>
+Date:	Sun May 2 21:28:53 2021 -0700
+
+-Bugfixes
+
+commit eedbbf79297d05a6414dd148fd436af6161ca988
+Author: SLOKnightfall <SLOKnightfall@gmail.com>
+Date:   Sun May 2 21:28:18 2021 -0700
+
+    -Fixed issue where option page to remove saved set from the dropdown list had been disabled.
+
+commit a111f3c358d359f19c601366dca40da67f723cc0
+Author: Architekt909 <jeff.weinstein@me.com>
+Date:   Thu Apr 29 14:44:51 2021 -0400
+
+    Update CollectionList.lua
+    
+    Fixes #156
+
+commit 5f60108881ac489b93311c0ae26864bf6b13cdb6
+Author: Vincent Clipet <vincent.clipet.7@gmail.com>
+Date:   Sun Mar 21 01:17:38 2021 +0100
+
+    FIX : Issue #158
+    The leather/mail/plate Crystal sets had duplicate pieces, causing a visual glitch on the appearances tab
+
+commit edb8f491e75a490525247b598ebc83a8abfbe304
+Author: semecan <semecan>
+Date:   Sat Mar 20 22:52:46 2021 +0100
+
+    - Fixed race condition in ElvUI skinning plugin
+
+commit 1325545033b731766c306ba3abfabbf6cfd3df89
+Author: Patrick Borgogno <789401+borgiman@users.noreply.github.com>
+Date:   Fri Mar 12 13:40:54 2021 +0100
+
+    fix typo
+
+commit a111f3c358d359f19c601366dca40da67f723cc0
+Author: Architekt909 <jeff.weinstein@me.com>
+Date:   Thu Apr 29 14:44:51 2021 -0400
+
+    Update CollectionList.lua
+    
+    Fixes #156
+
+commit 5f60108881ac489b93311c0ae26864bf6b13cdb6
+Author: Vincent Clipet <vincent.clipet.7@gmail.com>
+Date:   Sun Mar 21 01:17:38 2021 +0100
+
+    FIX : Issue #158
+    The leather/mail/plate Crystal sets had duplicate pieces, causing a visual glitch on the appearances tab
+
+commit edb8f491e75a490525247b598ebc83a8abfbe304
+Author: semecan <semecan>
+Date:   Sat Mar 20 22:52:46 2021 +0100
+
+    - Fixed race condition in ElvUI skinning plugin
+
+commit 1325545033b731766c306ba3abfabbf6cfd3df89
+Author: Patrick Borgogno <789401+borgiman@users.noreply.github.com>
+Date:   Fri Mar 12 13:40:54 2021 +0100
+
+    fix typo
+

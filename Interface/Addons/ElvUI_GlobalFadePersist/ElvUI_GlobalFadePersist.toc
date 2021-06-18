@@ -1,0 +1,8 @@
+## Interface: 80000
+## Author: Sauces-Turalyon
+## Version: 0.1
+## Title: |cff1784d1ElvUI|r |cff00b3ffGlobalFadePersist|r
+## Notes: Simple plugin that will make the global fade settings persist through Combat, Target, Casting, and Focus.
+## RequiredDeps: ElvUI
+
+ElvUI_GlobalFadePersist.lua

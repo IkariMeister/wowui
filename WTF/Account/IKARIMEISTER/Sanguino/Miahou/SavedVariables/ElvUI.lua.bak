@@ -1,0 +1,73 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"<Res non Verba>   Recluta Dps con exp y conocimiento de su clase para completar rooster de  mitico . Avance 10/10HC 2/10MM Horario 22:00 a 00:00 D a J para mas info /W me ", -- [1]
+			"Taorus-Zul'jin", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Taorus-Zul'jin", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2791, -- [11]
+			"Player-1379-00B84222", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Taorus-Zul'jin|r",
+			[51] = 1614997286,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"<Stormreaver> Horario 22:15-00:15 D-J 10/10NM 9/10HC. Reclutamos Warrior Dps otras clases preguntar /w +info!. También aceptamos todo tipo de gente que solo quiera hacer miticas + y todo tipo de contenido.", -- [1]
+			"Shínøn-Zul'jin", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shínøn-Zul'jin", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2793, -- [11]
+			"Player-1379-093A1BED", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edShínøn-Zul'jin|r",
+			[51] = 1614997325,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"Vendo |cffa335ee|Hitem:183035::::::::60:254::5:5:7188:6652:6935:1485:6646:1:28:752:::|h[Ardent Sunstar Signet]|h|r mas barato que en AH", -- [1]
+			"Nenka-Sanguino", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nenka-Sanguino", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2794, -- [11]
+			"Player-1379-0A8E2543", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nenka|r",
+			[51] = 1614997365,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+	},
+}

@@ -1,0 +1,1675 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003171,
+							["spec"] = 260,
+							["damage_from"] = {
+								["Venture Co. Strip Miner"] = true,
+								["Venture Co. Foreman"] = true,
+								["Venture Co. Tinkerer"] = true,
+								["Venture Co. Surveyor"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003171,
+							["aID"] = "1379-0AA41360",
+							["dps_started"] = false,
+							["total"] = 0.003171,
+							["classe"] = "ROGUE",
+							["serial"] = "Player-1379-0AA41360",
+							["nome"] = "Dokufurry",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1619741074,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 195.003171,
+							["start_time"] = 1619741074,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 22.001808,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Dokufurry"] = 90,
+							},
+							["total"] = 90.001808,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 90.001808,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1619741074,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Venture Co. Strip Miner",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12,
+										["targets"] = {
+											["Dokufurry"] = 49,
+										},
+										["n_dmg"] = 49,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 49,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8800] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Dokufurry"] = 41,
+										},
+										["n_dmg"] = 41,
+										["n_min"] = 41,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 41,
+										["c_max"] = 0,
+										["id"] = 8800,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 41,
+										["c_min"] = 0,
+										["successful_casted"] = 4,
+										["a_amt"] = 1,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[7978] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 7978,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 10,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "674",
+							["serial"] = "Creature-0-4239-0-75-674-000008B88F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1619741059,
+							["damage_taken"] = 0.001808,
+							["start_time"] = 1619741070,
+							["delay"] = 1619741059,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 28.008881,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Dokufurry"] = 49,
+							},
+							["total"] = 49.008881,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 49.008881,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1619741074,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Venture Co. Surveyor",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 11,
+										["targets"] = {
+											["Dokufurry"] = 49,
+										},
+										["n_dmg"] = 49,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 49,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "676",
+							["serial"] = "Creature-0-4239-0-75-676-000088B88F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1619741059,
+							["damage_taken"] = 0.008881,
+							["start_time"] = 1619741058,
+							["delay"] = 1619741059,
+							["tipo"] = 1,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 7.006824,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Dokufurry"] = 37,
+							},
+							["total"] = 37.006824,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 37.006824,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1619741074,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Venture Co. Foreman",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 20,
+										["g_amt"] = 0,
+										["n_max"] = 10,
+										["targets"] = {
+											["Dokufurry"] = 37,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 37,
+										["c_max"] = 20,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 20,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "675",
+							["serial"] = "Creature-0-4239-0-75-675-0000091D0A",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1619741058,
+							["damage_taken"] = 0.006824,
+							["start_time"] = 1619741064,
+							["delay"] = 1619741058,
+							["tipo"] = 1,
+						}, -- [4]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 19.005271,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Dokufurry"] = 19,
+							},
+							["total"] = 19.005271,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 19.005271,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1619741074,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Venture Co. Tinkerer",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[20823] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Dokufurry"] = 19,
+										},
+										["n_dmg"] = 19,
+										["n_min"] = 19,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 20823,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[7979] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 7979,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "677",
+							["serial"] = "Creature-0-4239-0-75-677-000008B88F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1619741050,
+							["damage_taken"] = 0.005271,
+							["start_time"] = 1619741073,
+							["delay"] = 1619741050,
+							["tipo"] = 1,
+						}, -- [5]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.00345,
+							["total_without_pet"] = 99.00345,
+							["total"] = 99.00345,
+							["targets_absorbs"] = {
+								["Dokufurry"] = 99,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1379-0AA41360",
+							["totalabsorb"] = 99.00345,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Dokufurry"] = 99,
+							},
+							["totalover_without_pet"] = 0.00345,
+							["healing_taken"] = 99.00345,
+							["fight_component"] = true,
+							["end_time"] = 1619741074,
+							["healing_from"] = {
+								["Dokufurry"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Dokufurry",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 99,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 23,
+										["targets"] = {
+											["Dokufurry"] = 99,
+										},
+										["n_min"] = 7,
+										["counter"] = 8,
+										["overheal"] = 0,
+										["total"] = 99,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Dokufurry"] = 99,
+										},
+										["n_amt"] = 8,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 99,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1619741055,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "1379-0AA41360",
+							["totaldenied"] = 0.00345,
+							["delay"] = 1619741059,
+							["last_event"] = 1619741059,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["monster"] = true,
+							["nome"] = "Venture Co. Strip Miner",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[8800] = 4,
+								[7978] = 10,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4239-0-75-674-000088B890",
+							["aID"] = "674",
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Venture Co. Tinkerer",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[20823] = 1,
+								[7979] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4239-0-75-677-000008B88F",
+							["aID"] = "677",
+						}, -- [2]
+						{
+							["fight_component"] = true,
+							["flag_original"] = 1297,
+							["buff_uptime_targets"] = {
+							},
+							["nome"] = "Dokufurry",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[2983] = 1,
+							},
+							["buff_uptime"] = 8,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["aID"] = "1379-0AA41360",
+							["last_event"] = 1619741068,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[2983] = {
+										["activedamt"] = 1,
+										["id"] = 2983,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1379-0AA41360",
+							["tipo"] = 4,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Dokufurry"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Dokufurry", -- [1]
+				},
+				["CombatStartedAt"] = 35967.095,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 8,
+				["playing_solo"] = true,
+				["totals"] = {
+					194.997905, -- [1]
+					99, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = -0.005973,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["data_fim"] = "02:04:34",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Venture Co. Strip Miner",
+				["TotalElapsedCombatTime"] = 1.224000000001979,
+				["CombatEndedAt"] = 35968.319,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "02:04:01",
+				["end_time"] = 35967.095,
+				["combat_id"] = 1,
+				["tempo_start"] = 1619741040,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					99, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Dokufurry"] = 99.00345,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Dokufurry"] = 0.003171,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 35933.788,
+				["contra"] = "Venture Co. Strip Miner",
+				["TimeData"] = {
+				},
+			}, -- [1]
+		},
+	},
+	["ocd_tracker"] = {
+		["enabled"] = false,
+		["current_cooldowns"] = {
+		},
+		["cooldowns"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["show_options"] = false,
+		["pos"] = {
+		},
+	},
+	["last_version"] = "v9.0.5.8406",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["coach"] = {
+		["enabled"] = false,
+		["welcome_panel_pos"] = {
+		},
+		["last_coach_name"] = false,
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1621036247,
+		["last_version"] = 14,
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Naowh",
+	["last_realversion"] = 144,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = true,
+			["author"] = "Tercio",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_height"] = 40,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["use_square_mode"] = false,
+			["is_first_run"] = false,
+			["grow_direction"] = "right",
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				299.9999389648438, -- [1]
+				499.9999084472656, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 160,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["scale"] = 1,
+			["arrow_anchor_x"] = 0,
+			["row_height"] = 20,
+			["row_texture"] = "Details Serenity",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 6.103515625e-05,
+				["x"] = -6.103515625e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = -4.57763671875e-05,
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["use_spark"] = true,
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["announce_prepots"] = {
+		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["last_day"] = "30",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["combat_id"] = 1,
+	["savedStyles"] = {
+	},
+	["combat_counter"] = 8,
+	["cached_talents"] = {
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 22.010396,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Dokufurry"] = 90,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "674",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 90.010396,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1619741074,
+					["dps_started"] = false,
+					["total"] = 90.010396,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Venture Co. Strip Miner",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12,
+								["targets"] = {
+									["Dokufurry"] = 49,
+								},
+								["n_dmg"] = 49,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 49,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 5,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[8800] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 41,
+								["targets"] = {
+									["Dokufurry"] = 41,
+								},
+								["n_dmg"] = 41,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 41,
+								["c_max"] = 0,
+								["id"] = 8800,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 41,
+								["c_min"] = 0,
+								["successful_casted"] = 4,
+								["a_amt"] = 1,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[7978] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 7978,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 10,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4239-0-75-674-000008B88F",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1619741067,
+					["delay"] = 0,
+					["damage_taken"] = 0.010396,
+				}, -- [1]
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.011983,
+					["damage_from"] = {
+						["Venture Co. Strip Miner"] = true,
+						["Venture Co. Surveyor"] = true,
+						["Venture Co. Tinkerer"] = true,
+						["Venture Co. Foreman"] = true,
+					},
+					["targets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["aID"] = "1379-0AA41360",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.011983,
+					["end_time"] = 1619741074,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["total"] = 0.011983,
+					["classe"] = "ROGUE",
+					["on_hold"] = false,
+					["nome"] = "Dokufurry",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 260,
+					["serial"] = "Player-1379-0AA41360",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1619741071,
+					["delay"] = 0,
+					["damage_taken"] = 195.011983,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 28.01584,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Dokufurry"] = 49,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "676",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 49.01584,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1619741074,
+					["dps_started"] = false,
+					["total"] = 49.01584,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Venture Co. Surveyor",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 11,
+								["targets"] = {
+									["Dokufurry"] = 49,
+								},
+								["n_dmg"] = 49,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 49,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 5,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4239-0-75-676-000088B88F",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1619741055,
+					["delay"] = 0,
+					["damage_taken"] = 0.01584,
+				}, -- [3]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 19.010473,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Dokufurry"] = 19,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "677",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 19.010473,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1619741074,
+					["dps_started"] = false,
+					["total"] = 19.010473,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Venture Co. Tinkerer",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[20823] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Dokufurry"] = 19,
+								},
+								["n_dmg"] = 19,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 19,
+								["c_max"] = 0,
+								["id"] = 20823,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[7979] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 7979,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4239-0-75-677-000008B88F",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1619741070,
+					["delay"] = 0,
+					["damage_taken"] = 0.010473,
+				}, -- [4]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 7.009418,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Dokufurry"] = 37,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "675",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 37.009418,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1619741074,
+					["dps_started"] = false,
+					["total"] = 37.009418,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Venture Co. Foreman",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 20,
+								["g_amt"] = 0,
+								["n_max"] = 10,
+								["targets"] = {
+									["Dokufurry"] = 37,
+								},
+								["n_dmg"] = 17,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 37,
+								["c_max"] = 20,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4239-0-75-675-0000091D0A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1619741061,
+					["delay"] = 0,
+					["damage_taken"] = 0.009418,
+				}, -- [5]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["aID"] = "1379-0AA41360",
+					["totalover"] = 0.005233,
+					["total_without_pet"] = 99.005233,
+					["total"] = 99.005233,
+					["targets_absorbs"] = {
+						["Dokufurry"] = 99,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-1379-0AA41360",
+					["totalabsorb"] = 99.005233,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Dokufurry"] = 99,
+					},
+					["totalover_without_pet"] = 0.005233,
+					["healing_taken"] = 99.005233,
+					["fight_component"] = true,
+					["end_time"] = 1619741074,
+					["start_time"] = 1619741052,
+					["healing_from"] = {
+						["Dokufurry"] = true,
+					},
+					["nome"] = "Dokufurry",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[312215] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 99,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 23,
+								["targets"] = {
+									["Dokufurry"] = 99,
+								},
+								["n_min"] = 0,
+								["counter"] = 8,
+								["overheal"] = 0,
+								["total"] = 99,
+								["c_max"] = 0,
+								["id"] = 312215,
+								["targets_absorbs"] = {
+									["Dokufurry"] = 99,
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 99,
+								["totaldenied"] = 0,
+								["n_amt"] = 8,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["heal_enemy_amt"] = 0,
+					["classe"] = "ROGUE",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["spec"] = 260,
+					["totaldenied"] = 0.005233,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[8800] = 4,
+						[7978] = 10,
+					},
+					["nome"] = "Venture Co. Strip Miner",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["aID"] = "674",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4239-0-75-674-000088B890",
+					["tipo"] = 4,
+				}, -- [1]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[20823] = 1,
+						[7979] = 1,
+					},
+					["nome"] = "Venture Co. Tinkerer",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["aID"] = "677",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4239-0-75-677-000008B88F",
+					["tipo"] = 4,
+				}, -- [2]
+				{
+					["flag_original"] = 1297,
+					["pets"] = {
+					},
+					["classe"] = "ROGUE",
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[2983] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 2983,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["nome"] = "Dokufurry",
+					["spec"] = 260,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[2983] = 1,
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 8,
+					["serial"] = "Player-1379-0AA41360",
+					["aID"] = "1379-0AA41360",
+				}, -- [3]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["raid_roster_indexed"] = {
+		},
+		["tempo_start"] = 1619741040,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 7,
+		["spells_cast_timeline"] = {
+		},
+		["totals"] = {
+			195.025955, -- [1]
+			99.00345, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "02:04:01",
+		["end_time"] = 35967.095,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 33.3070000000007,
+				["type"] = 0,
+				["name"] = "Venture Co. Strip Miner",
+				["clock"] = "02:04:01",
+			}, -- [1]
+		},
+		["totals_grupo"] = {
+			0.003171, -- [1]
+			99.00345, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = "02:04:34",
+		["overall_enemy_name"] = "Venture Co. Strip Miner",
+		["CombatSkillCache"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["start_time"] = 35933.788,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+	},
+	["force_font_outline"] = "",
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[4] = 2,
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -261.2137145996094,
+					["x"] = -1006.987976074219,
+					["w"] = 211.9713745117188,
+					["h"] = 225.9777679443359,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[2] = 1,
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -102.9769287109375,
+					["x"] = -1006.987976074219,
+					["w"] = 211.9713745117188,
+					["h"] = 50.4958610534668,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = false,
+			["is_open"] = false,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -301.8197631835938,
+					["x"] = -979.8335571289062,
+					["w"] = 274.9999389648438,
+					["h"] = 119.9997406005859,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [3]
+	},
+	["character_data"] = {
+		["logons"] = 3,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-1379-0AA41360"] = 260,
+		["Player-1379-0A9A0B21"] = 260,
+	},
+}

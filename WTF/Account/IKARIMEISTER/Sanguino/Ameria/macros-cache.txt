@@ -1,0 +1,8 @@
+VER 3 0100000000000003 "Alitas ashen" "INV_MISC_QUESTIONMARK"
+#showtooltip Avenging Wrath
+/click [mod:shift] MultiBarBottomLeftButton7; MultiBarBottomLeftButton1
+END
+VER 3 0100000000000004 "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@player] Ashen Hallow; [mod:ctrl] Holy Avenger; Avenging Wrath
+END
